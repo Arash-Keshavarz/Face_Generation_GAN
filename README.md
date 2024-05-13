@@ -8,5 +8,5 @@ Below is an example of the original faces from the CelebA dataset:
 
 
 
-![Original Faces]("/Users/arash/Desktop/Udacity/Udacity_Github/Face_Generation/img/processed-face-data.png")
+![Original Faces]("/Users/arash/Desktop/Udacity/Udacity_Github/Face_Generation/assets/processed-face-data.png")
 
