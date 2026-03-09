@@ -1,0 +1,16 @@
+name: face-gan
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pytorch
+  - torchvision
+  - numpy=1.26.4
+  - matplotlib=3.8.4
+  - pillow=10.2.0
+  - tqdm=4.66.4
+  - pip:
+      - -r requirements-dev.txt
+
